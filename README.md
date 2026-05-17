@@ -118,4 +118,7 @@ The following preprocessing steps were performed:
 
 ## 🧩 Data Modeling
 
-![Data Model](Dashboard%20Images/Data Modelling.png)
+![Data Model](Dashboard%20Images/Data_modelling.png)
+
+
+
