@@ -112,4 +112,10 @@ The following preprocessing steps were performed:
 ---
 
 ## 📷 Dashboard Preview
+![Dashboard](Dashboard%20Images/Dashboard.png)
 
+---
+
+## 🧩 Data Modeling
+
+![Data Model](Dashboard%20Images/Data Modelling.png)
