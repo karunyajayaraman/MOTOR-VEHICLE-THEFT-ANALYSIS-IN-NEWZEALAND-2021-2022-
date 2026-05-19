@@ -112,7 +112,8 @@ The following preprocessing steps were performed:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](Dashboard%20Images/Dashboard.png)
+
+![Power BI Dashboard](images/dashboard.png)
 
 ---
 
