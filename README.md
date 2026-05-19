@@ -129,7 +129,7 @@ The following preprocessing steps were performed:
 
 ## Stolen Vehicle Type&Count.png
 
-![Stolen Vehicle Type&Count](PowerBI%20Dashboard/Stolen%20Vehicle%20Type&Count.png)
+![Stolen Vehicle Type & Count](PowerBI%20Dashboard/Stolen%20Vehicle%20Type%20&%20Count.png)
 
 ## Theft Pattern by Time
 
