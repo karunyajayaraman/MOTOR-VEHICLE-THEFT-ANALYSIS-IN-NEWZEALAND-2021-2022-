@@ -115,6 +115,7 @@ The following preprocessing steps were performed:
 
 ![Dashboard](Dashboard%20images/dashboard.png)
 
+![Power BI Dashboard](images/dashboard.png)
 ---
 
 ## 🧩 Data Modeling
