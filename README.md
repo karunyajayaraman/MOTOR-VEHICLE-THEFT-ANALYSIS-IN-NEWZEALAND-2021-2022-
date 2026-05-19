@@ -115,11 +115,23 @@ The following preprocessing steps were performed:
 
 ![Dashboard](PowerBI%20Dashboard/Dashboard.png)
 
----
-
 ## 🧩 Data Modeling
 
 ![Data Modelling](PowerBI%20Dashboard/Data%20modelling.png)
 
+## High Risk Theft Region
+![High Risk Theft Region](PowerBI%20Dashboard/High%20Risk%20Theft%20Region.png)
+
+## Most Stolen Vehicle Type
+![Most Stolen Vehicle Type](PowerBI%20Dashboard/Most%20Solen%20Vehicle%20Type.png)
+
+## Stolen Vehicle Type&Count.png
+![Stolen Vehicle Type&Count](PowerBI%20Dashboard/Stolen%20Vehicle%20Type&Count.png)
+
+## Theft Pattern by Time
+![Theft Pattern by Time](PowerBI%20Dashboard/Theft%20Pattern%20by%20Time.png)
+
+## Theft Trend by Month-Year
+![Theft Trend](PowerBI%20Dashboard/Theft%20Trend%20by%20Month-Year.png)
 
 
