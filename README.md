@@ -132,6 +132,9 @@ The following preprocessing steps were performed:
 ## Theft Pattern by Time
 ![Theft Pattern by Time](PowerBI%20Dashboard/Theft%20Pattern%20by%20Time.png)
 
+## Compare Vehicle Models & Types
+![Compare Vehicle Models & Type](PowerBI%20Dashboard/Compare%20Vehicle%20Models%20&%20Type.png)
+
 
 
 
