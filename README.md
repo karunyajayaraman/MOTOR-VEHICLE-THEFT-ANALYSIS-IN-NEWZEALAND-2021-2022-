@@ -119,7 +119,7 @@ The following preprocessing steps were performed:
 
 ## 🧩 Data Modeling
 
-![Data Model](Dashboard%20Images/Data_modelling.png)
+![Data Modelling](PowerBI%20Dashboard/Data%20modelling.png)
 
 
 
