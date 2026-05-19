@@ -113,9 +113,8 @@ The following preprocessing steps were performed:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard%20images/dashboard.png)
+![Dashboard](PowerBI%20Dashboard/Dashboard.png)
 
-![Power BI Dashboard](images/dashboard.png)
 ---
 
 ## 🧩 Data Modeling
