@@ -90,7 +90,7 @@ The following preprocessing steps were performed:
 
 - SUVs and passenger vehicles were among the most stolen vehicle categories.
 - Certain months showed significantly higher theft activity.
-- Urban regions experienced higher theft rates compared to rural regions.
+- Higher theft incidents were observed in densely populated regions.
 - Luxury vehicle thefts showed noticeable spikes during specific periods.
 - Theft trends revealed recurring seasonal patterns.
 
