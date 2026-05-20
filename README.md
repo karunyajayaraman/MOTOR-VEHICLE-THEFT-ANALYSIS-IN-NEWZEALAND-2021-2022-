@@ -88,7 +88,7 @@ The following preprocessing steps were performed:
 
 ## 📈 Key Insights
 
-- SUVs and passenger vehicles were among the most stolen vehicle categories.
+- Station wagons recorded the highest number of theft incidents in 2022.
 - Certain months showed significantly higher theft activity.
 - Higher theft incidents were observed in densely populated regions.
 - Luxury vehicle thefts showed noticeable spikes during specific periods.
